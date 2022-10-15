@@ -139,7 +139,7 @@ int main(void)
 }
 ~~~
 ### Output screen shots :
-![Screenshot (95)](https://user-images.githubusercontent.com/94165322/194703607-54fa2907-a63e-4f8e-b949-505c7aca0b08.png)
+![image](https://user-images.githubusercontent.com/94165322/196000775-08035fd8-8be6-46ff-aead-ea1143ebae25.png)
 
 ### Circuit Diagram:
 ![image](https://user-images.githubusercontent.com/94165322/195999226-f6c1acf0-875f-466a-9f21-55622fe0cad3.png)
